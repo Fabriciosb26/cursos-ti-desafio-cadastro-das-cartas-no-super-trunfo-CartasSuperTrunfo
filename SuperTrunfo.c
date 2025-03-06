@@ -24,7 +24,7 @@ int main(){
         printf("Digite a área em Km² da Cidade");
         scanf("%f", &área);
 
-        printf("Quantos pontos turísticos existem na Cidade? \n");
+        printf(" \n");
         scanf("%d", &pontosturisticos);
 
         printf("Digite o PIB da Cidade \n");
